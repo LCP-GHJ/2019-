@@ -1,0 +1,4 @@
+﻿  ZTE.cpp
+c:\users\administrator\desktop\中兴捧月之算法精英挑战赛\程序文件\zte v1.0.3\zte\zte.cpp(1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\administrator\desktop\中兴捧月之算法精英挑战赛\程序文件\zte v1.0.3\zte\zte.cpp(207): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  ZTE.vcxproj -> C:\Users\Administrator\Desktop\中兴捧月之算法精英挑战赛\程序文件\ZTE v1.0.3\x64\Debug\ZTE.exe
